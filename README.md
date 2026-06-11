@@ -119,7 +119,7 @@ The takeaway: trust the ratings more than the price tag.
 
 ## 📷 Dashboard
 
-![Dashboard Overview](<img width="999" height="489" alt="Captura de Tela 2026-06-11 às 11 35 43" src="https://github.com/user-attachments/assets/06037856-2db4-4f8d-be89-8ff7ce359773" />)
+![Dashboard Overview](images/00-dashboard-overview.png)
 
 | | |
 |---|---|
