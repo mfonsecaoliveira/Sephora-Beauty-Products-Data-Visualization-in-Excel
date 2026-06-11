@@ -79,12 +79,12 @@ Plus: `High_Rating_Flag` (rating ≥ 4), `Exclusivity` (Limited / Sephora Exclus
 | Q1 | Which brands get the most loves? | Horizontal bar |
 | Q2 | How does price vary across categories? | Clustered bar |
 | Q3 | Is price related to rating? | Line |
-| Q4 | Top 30 most-loved products | Horizontal bar |
+| Q4 | Top 20 most-loved products | Horizontal bar |
 | Q5 | How do exclusive products perform? | Clustered bar |
 | Q6 | New vs established products | Clustered bar |
 | Q7 | Product distribution across categories | Pie |
 | Q8 | Best value (rating per dollar) | Horizontal bar |
-| Q9 | Loves vs reviews relationship | Line |
+| Q9 | Review Density by Popularity Level | Line |
 | Q10 | How price segments compare | Clustered bar |
 
 ---
